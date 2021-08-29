@@ -1,5 +1,5 @@
 ### Airbnb-Clone 
-#### Tech:  (NextJS, TailwindCSS, NextAuth)
+#### Tech:  (NextJS, TailwindCSS)
 
 <hr>
 
